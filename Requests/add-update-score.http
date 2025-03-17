@@ -1,0 +1,8 @@
+POST https://localhost:7282/api/leaderboard/scores
+Content-Type: application/json
+
+{
+  "playerId": "player123",
+  "playerName": "John Doe",
+  "score": 1000
+}

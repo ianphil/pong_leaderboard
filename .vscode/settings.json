@@ -1,0 +1,15 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "text": "Always generate C# code."
+    },
+    {
+      "file": "docs/spec.md"
+    }
+  ],
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Create a specific commit message for the changes made in the code. The first line should be a single sentence no longer than 70 characters. The second line should be a blank line. The third line should be a detailed description of the changes made in the code. The commit message should be in English and follow the conventional commit format."
+    }
+  ]
+}
